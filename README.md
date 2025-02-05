@@ -1,1 +1,3 @@
-# Exercice3
+# Descriptif
+
+Fichier pour l'exercice 3
